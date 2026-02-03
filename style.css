@@ -53,10 +53,11 @@ body {
 }
 
 .about-me h3 {
-    color: #f2f2f2;
+    
+    color: #03002f;
 }
 .about-me p {
-    color: #03002f;
+    color: #f2f2f2;
     font-size: 18px;
     line-height: 1.6;
 }
