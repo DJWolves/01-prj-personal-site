@@ -43,13 +43,20 @@ body {
   padding-top: 85px;
 }
 
-#about {
+.about {
 
     background-color: #8a7aff;
     padding: 20px;
     margin: 20px;
     border-radius: 10px;
-    p {
-      color: #03002f;
-    }
+    
+}
+
+.about h3 {
+    color: #f2f2f2;
+}
+.about p {
+    color: #03002f;
+    font-size: 18px;
+    line-height: 1.6;
 }
