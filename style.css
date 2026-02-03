@@ -43,7 +43,7 @@ body {
   padding-top: 85px;
 }
 
-.about {
+.about-me {
 
     background-color: #8a7aff;
     padding: 20px;
@@ -52,10 +52,10 @@ body {
     
 }
 
-.about h3 {
+.about-me h3 {
     color: #f2f2f2;
 }
-.about p {
+.about-me p {
     color: #03002f;
     font-size: 18px;
     line-height: 1.6;
