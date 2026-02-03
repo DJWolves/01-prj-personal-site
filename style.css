@@ -61,3 +61,26 @@ body {
     font-size: 18px;
     line-height: 1.6;
 }
+
+
+
+.projects-section {
+  display: flex; /* Makes the container a flex container */
+  justify-content: space-between; /* Distributes space between columns */
+  gap: 20px; /* Adds space between columns */
+}
+
+
+.tech-column {
+  flex: 1;
+  padding: 15px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+}
+
+.crafts-column {
+  flex: 1;
+  padding: 15px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+}
