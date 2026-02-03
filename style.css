@@ -1,4 +1,6 @@
 /* Add you CSS here */
+
+
 .navbar {
     background-color: #8a7aff;
     overflow: hidden;
@@ -18,5 +20,5 @@
 }
 .navbar a.active {
     background-color: #04AA6D;
-    color: rgb(202, 19, 19);
+    color: rgb(255, 255, 255);
 }
