@@ -42,3 +42,11 @@ body {
 #socials-text {
   padding-top: 85px;
 }
+
+#about {
+
+    background-color: #8a7aff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
