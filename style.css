@@ -39,7 +39,6 @@ body {
     height: 400px; /* Adjust height as needed */
 }
 
-#socials-text {
-  margin-top: 120px;
-
+#socials text {
+  padding-top: 20px;
 }
