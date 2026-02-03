@@ -23,6 +23,13 @@
     color: rgb(255, 255, 255);
 }
 
+
+
+
+
+
+
+
 body {
   
     font-family: Arial, sans-serif;
@@ -32,6 +39,13 @@ body {
     text-align: center;
     color: #f2f2f2;
 }
+
+
+
+
+
+
+
 .cloud-background {
     background-image: url('img/cloud background banner.jpg');
     background-size: cover; /* Ensures the image covers the entire section */
@@ -42,6 +56,12 @@ body {
 #socials-text {
   padding-top: 85px;
 }
+
+
+
+
+
+
 
 .about-me {
 
@@ -58,9 +78,17 @@ body {
 }
 .about-me p {
     color: #f2f2f2;
-    font-size: 18px;
+   /* font-size: 18px; */
     line-height: 1.6;
 }
+
+
+
+
+
+
+
+
 
 
 .skills-section {
@@ -70,12 +98,28 @@ body {
     border-radius: 10px;
 }
 
+.skills-section h3 {
+    
+    color: #270007;
+}
+
+
+
+
+
+
 .projects-section {
     background-color: #8a7aff;
     padding: 20px;
     margin: 20px;
     border-radius: 10px;
 }
+
+.projects-section h3 {
+    
+    color: #03002f;
+}
+
 
 .projects-section-columns {
   display: flex; /* Makes the container a flex container */
@@ -96,4 +140,23 @@ body {
   padding: 15px;
   background-color: #0009ee;
   border: 1px solid #ccc;
+}
+
+
+
+
+
+
+
+
+.contact-section {
+    background-color: #8a7aff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.contact-section h3 {
+    
+    color: #270007;
 }
