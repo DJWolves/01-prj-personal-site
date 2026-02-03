@@ -63,6 +63,14 @@ body {
 }
 
 
+.skills-section {
+    background-color: #8a7aff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+
 
 .projects-section {
   display: flex; /* Makes the container a flex container */
@@ -74,13 +82,13 @@ body {
 .tech-column {
   flex: 1;
   padding: 15px;
-  background-color: #f0f0f0;
+  background-color: #a12222;
   border: 1px solid #ccc;
 }
 
 .crafts-column {
   flex: 1;
   padding: 15px;
-  background-color: #f0f0f0;
+  background-color: #481ebb;
   border: 1px solid #ccc;
 }
