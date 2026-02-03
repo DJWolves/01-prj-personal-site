@@ -135,6 +135,14 @@ body {
   border: 1px solid #ccc;
 }
 
+.tech-column h4 {
+    
+    color: #270007;
+}
+
+
+
+
 .crafts-column {
   flex: 1;
   padding: 15px;
@@ -142,7 +150,10 @@ body {
   border: 1px solid #ccc;
 }
 
-
+.crafts-column h4 {
+    
+    color: #03002f;
+}
 
 
 
