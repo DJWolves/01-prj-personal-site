@@ -31,7 +31,7 @@ body {
 }
 .cloud-background {
     background-image: url('img/cloud background banner.jpg');
-     background-size: cover; /* Ensures the image covers the entire section */
+    background-size: cover; /* Ensures the image covers the entire section */
     background-position: center;
-    background-size: cover;
+    height: 400px; /* Adjust height as needed */
 }
