@@ -87,13 +87,13 @@ body {
 .tech-column {
   flex: 1;
   padding: 15px;
-  background-color: #a12222;
+  background-color: #a40120;
   border: 1px solid #ccc;
 }
 
 .crafts-column {
   flex: 1;
   padding: 15px;
-  background-color: #481ebb;
+  background-color: #0009ee;
   border: 1px solid #ccc;
 }
