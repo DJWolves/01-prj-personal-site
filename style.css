@@ -28,6 +28,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #d4b6ff;
+    text-align: center;
 }
 .cloud-background {
     background-image: url('img/cloud background banner.jpg');
