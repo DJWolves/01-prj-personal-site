@@ -70,9 +70,14 @@ body {
     border-radius: 10px;
 }
 
+.project-section {
+    background-color: #8a7aff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
 
-
-.projects-section {
+.projects-section-columns {
   display: flex; /* Makes the container a flex container */
   justify-content: space-between; /* Distributes space between columns */
   gap: 20px; /* Adds space between columns */
